@@ -1,21 +1,10 @@
-<div align="center">
-
-# Stella Karagianni
-### QA Engineer · Software Developer · Researcher
-
-*Think in high complexity; build with simplicity*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-</div>
-
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science & Biomedical Informatics** graduate (BSc + MSc) curently working as a **QA Software Engineer**, where I'm deeply involved in the full software development/testing life cycle across web, mobile and physical terminal environments.
+I'm a **Computer Science & Biomedical Informatics** graduate (BSc + MSc),curently working as a **QA Software Engineer**, where I'm deeply involved in the full software development/testing life cycle across web, mobile and terminal environments.
 
-I'm passionate about **automation**, **software development**, and **data-driven research**. Currently expanding my expertise in software engineering and exploring **Research opportunities in AI ecosystems, Automatino & Biology**.
+I'm passionate about **automation**, **software development**, and **data-driven research**. Currently expanding my expertise in software engineering and exploring **Research opportunities in AI ecosystems, Automation & Biology**.
 
 ---
 
@@ -63,8 +52,10 @@ I'm passionate about **automation**, **software development**, and **data-driven
 
 ## 🔬 Research
 
-**Undergraduate Thesis** — *Assessment of Meta-Analysis of Gene Expression Data*
+**Thesis** — *Assessment of Meta-Analysis of Gene Expression Data*
 >Built bipartite graphs and computed metrics for prediction purposes using Python, Excel, and Cytoscape to explore genetic relationships between differentially expressed genes (DEGs) and fatal human diseases.
+>
+![Research Profile](https://pe-uth.academia.edu/StellaKaragianni)
 
 🎯 **Current research interest:** AI ecosystems, Automation and Biology — actively seeking Research opportunities.
 
