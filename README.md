@@ -55,7 +55,7 @@ I'm passionate about **automation**, **software development**, and **data-driven
 **Thesis** — *Assessment of Meta-Analysis of Gene Expression Data*
 >Built bipartite graphs and computed metrics for prediction purposes using Python, Excel, and Cytoscape to explore genetic relationships between differentially expressed genes (DEGs) and fatal human diseases.
 >
->**Research Profile** - (https://pe-uth.academia.edu/StellaKaragianni)
+>**Research Profile** - <a id='https://pe-uth.academia.edu/StellaKaragianni'></a>
 
 🎯 **Current research interest:** AI ecosystems, Automation and Biology — actively seeking Research opportunities.
 
