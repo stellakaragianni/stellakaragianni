@@ -15,7 +15,7 @@
 
 I'm a **Computer Science & Biomedical Informatics** graduate (BSc + MSc) curently working as a **QA Software Engineer**, where I'm deeply involved in the full software development/testing life cycle across web, mobile and physical terminal environments.
 
-I'm passionate about **automation**, **software development**, and **data-driven research**. Currently expanding my expertise in software engineering and exploring **PhD opportunities in multi-agent AI ecosystems**.
+I'm passionate about **automation**, **software development**, and **data-driven research**. Currently expanding my expertise in software engineering and exploring **Research opportunities in AI ecosystems, Automatino & Biology**.
 
 ---
 
